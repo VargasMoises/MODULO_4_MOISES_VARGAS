@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(221, 244, 247);
+    color:rgb(23, 44, 58) ;
+    font-family: fantasy;
+    text-align: center;
+}
+.container {
+    display:flex;
+    justify-content: center; 
+}
+.box {
+margin: 2px 2px;
+} 
+button {
+    background-color: rgb(136, 136, 238);
+    font-family: fantasy;
+}
